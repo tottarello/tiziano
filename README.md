@@ -1,2 +1,2 @@
 # tiziano
-persola
+personal
